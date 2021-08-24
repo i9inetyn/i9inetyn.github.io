@@ -140,8 +140,11 @@ footer {
         background-image: url(./images/pattern-background-mobile.svg);
         background-color: hsl(225, 100%, 94%);
         background-repeat: no-repeat;
-    
-            
+              
+    }
+
+    .background {
+        size: 95%;
     }
     
 }
