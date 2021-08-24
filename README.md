@@ -23,13 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
-![./images/web]
+[./images/web]
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-card-9sWLLJrY2)
-- Live Site URL: [Add live site URL here](https://i9inety.github.io)
+- Solution URL: [https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-card-9sWLLJrY2](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-card-9sWLLJrY2)
+- Live Site URL: [https://i9inetyn.github.io](https://i9inetyn.github.io)
 
 
 ### Built with
