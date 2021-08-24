@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](.Web capture_24-8-2021_144353_.JPEG)
+![./images/Web capture_24-8-2021_144353_.jpeg]
 
 
 ### Links
